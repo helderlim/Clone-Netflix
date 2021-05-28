@@ -1,4 +1,4 @@
-import './FeatureMovie.css';
+import './FeaturedMovie.css';
 
 import React from 'react';
 
