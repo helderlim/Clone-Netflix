@@ -15,8 +15,14 @@ export default () => {
     }, []);
 
     return (
-        <div>
-            Ola mundo
+        <div className="page">
+        <section className="listis">
+            {moveiList.map((item, key)=>(
+                <div>
+                    {item.title}Unexpected reserved word 'await'
+                </div>
+            ))}
+        </section>
         </div>
     )
 }
