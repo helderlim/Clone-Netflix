@@ -19,7 +19,7 @@ export default () => {
         <section className="listis">
             {moveiList.map((item, key)=>(
                 <div>
-                    {item.title}Unexpected reserved word 'await'
+                    {item.title}
                 </div>
             ))}
         </section>
