@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
+import MovieRow from './components/MovieRow';
 import Tmdb from './tmdb';
 
 export default () => {
@@ -18,9 +19,7 @@ export default () => {
         <div className="page">
         <section className="listis">
             {moveiList.map((item, key)=>(
-                <div>
-                    {item.title}
-                </div>
+                <MovieRow key={key}/>
             ))}
         </section>
         </div>
