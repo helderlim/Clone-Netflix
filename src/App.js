@@ -58,6 +58,11 @@ export default () => {
                 items={item.items}/>
             ))}
         </section>
+        <footer>
+            Feito com <span role="img" aria-label="coração">❤️</span> pelo Helder Lima<br /> 
+            Direitos de Imagem para Netflix<br />
+            Dados pegos do site Themoviedb.org
+        </footer>
         </div>
     )
 }
