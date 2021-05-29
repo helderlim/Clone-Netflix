@@ -63,6 +63,12 @@ export default () => {
             Direitos de Imagem para Netflix<br />
             Dados pegos do site Themoviedb.org
         </footer>
+
+        {moveiList.length <= 0 &&  
+        <div className="loading">
+            <img src="https://steamuserimages-a.akamaihd.net/ugc/948471635620655778/092A8E2EB6F19BEADC8D3570DD7DC8432D7B6EEF/" />
+        </div>
+}
         </div>
     )
 }
