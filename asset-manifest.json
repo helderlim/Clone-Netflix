@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Helderflix-Teste/static/css/main.33f91bd7.chunk.css",
-    "main.js": "/Helderflix-Teste/static/js/main.c63064db.chunk.js",
-    "main.js.map": "/Helderflix-Teste/static/js/main.c63064db.chunk.js.map",
+    "main.css": "/Helderflix-Teste/static/css/main.71f3cdc0.chunk.css",
+    "main.js": "/Helderflix-Teste/static/js/main.969775ee.chunk.js",
+    "main.js.map": "/Helderflix-Teste/static/js/main.969775ee.chunk.js.map",
     "runtime-main.js": "/Helderflix-Teste/static/js/runtime-main.8574a0e7.js",
     "runtime-main.js.map": "/Helderflix-Teste/static/js/runtime-main.8574a0e7.js.map",
-    "static/js/2.e8adbdb4.chunk.js": "/Helderflix-Teste/static/js/2.e8adbdb4.chunk.js",
-    "static/js/2.e8adbdb4.chunk.js.map": "/Helderflix-Teste/static/js/2.e8adbdb4.chunk.js.map",
+    "static/js/2.3605e912.chunk.js": "/Helderflix-Teste/static/js/2.3605e912.chunk.js",
+    "static/js/2.3605e912.chunk.js.map": "/Helderflix-Teste/static/js/2.3605e912.chunk.js.map",
     "index.html": "/Helderflix-Teste/index.html",
-    "static/css/main.33f91bd7.chunk.css.map": "/Helderflix-Teste/static/css/main.33f91bd7.chunk.css.map",
-    "static/js/2.e8adbdb4.chunk.js.LICENSE.txt": "/Helderflix-Teste/static/js/2.e8adbdb4.chunk.js.LICENSE.txt"
+    "static/css/main.71f3cdc0.chunk.css.map": "/Helderflix-Teste/static/css/main.71f3cdc0.chunk.css.map",
+    "static/js/2.3605e912.chunk.js.LICENSE.txt": "/Helderflix-Teste/static/js/2.3605e912.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8574a0e7.js",
-    "static/js/2.e8adbdb4.chunk.js",
-    "static/css/main.33f91bd7.chunk.css",
-    "static/js/main.c63064db.chunk.js"
+    "static/js/2.3605e912.chunk.js",
+    "static/css/main.71f3cdc0.chunk.css",
+    "static/js/main.969775ee.chunk.js"
   ]
 }
