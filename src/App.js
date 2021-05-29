@@ -3,7 +3,7 @@ import './App.css';
 import React, { useEffect, useState } from 'react';
 
 import FeaturedMovie from './components/FeaturedMovie';
-import Header from './components/Header';
+import Header from './components/Header/index';
 import MovieRow from './components/MovieRow';
 import Tmdb from './tmdb';
 
